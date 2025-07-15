@@ -1,16 +1,26 @@
-# claudemods-iso2usb
+# 🚀 claudemods-iso2usb
 
-iso2usb-universal.sh is for any iso and is currently only tested on ssd/hdd but should work on others
+### **iso2usb-universal.sh** 🌍  
+This script is designed for **any ISO** and has been tested on **SSD/HDD**, but it should work on other storage devices as well.  
 
-chmod execute with sudo type needs and thank me later
+🛠️ **Instructions:**  
+1. Run `chmod +x iso2usb-universal.sh` to make it executable.  
+2. Execute with `sudo ./iso2usb-universal.sh`.  
+3. Follow the prompts and **thank me later** 😉.  
 
+---
 
-credits to Piero Proietti and his software here is find his homepage below 
+### **Credits & Acknowledgments** 🙏  
+Special thanks to **Piero Proietti** and his incredible software, **Penguins Eggs**! 🐧  
+🔗 Check out his homepage: [Penguins Eggs](https://penguins--eggs-net.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp&_x_tr_hist=true)  
 
-https://penguins--eggs-net.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp&_x_tr_hist=true
+---
 
-iso2usbpe.sh is for penguins eggs and is currently only tested on ssd/hdd but should work on others
+### **iso2usbpe.sh** 🐧  
+This script is specifically tailored for **Penguins Eggs** ISOs and has been tested on **SSD/HDD**, but it should work on other storage devices as well.  
 
-chmod then simple use sudo eggs prouduce clone --maxorwhatever && sudo./iso2usbpe.sh
-
-type needs and thank me later
+🛠️ **Instructions:**  
+1. Run `chmod +x iso2usbpe.sh` to make it executable.  
+2. Use Penguins Eggs to create your clone:  
+   ```bash
+   sudo eggs produce clone --maxorwhatever
