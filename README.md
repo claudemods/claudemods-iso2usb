@@ -21,6 +21,7 @@ This script is specifically tailored for **Penguins Eggs** ISOs and has been tes
 
 🛠️ **Instructions:**  
 1. Run `chmod +x iso2usbpe.sh` to make it executable.  
-2. Use Penguins Eggs and my script to create your clone and then dd:  
+2. Use Penguins Eggs and my script to create your clone and then dd:
+3. execute below command in directory of iso2usbpe.sh
    ```bash
-   sudo eggs produce clone --maxorwhatever && sudo ./iso2usbpe.sh.sh
+   sudo eggs produce clone --maxorwhatever && sudo ./iso2usbpe.sh
