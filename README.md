@@ -16,7 +16,7 @@ Special thanks to **Piero Proietti** and his incredible software, **Penguins Egg
 
 ---
 
-### **iso2usbpe.sh** 🐧 this might be integrated into penguins soon  
+### **iso2usbpe.sh** 🐧 this might be integrated into penguins soon with Penguins Eggs Customs
 This script is specifically tailored for **Penguins Eggs** ISOs and has been tested on **SSD/HDD**, but it should work on other storage devices as well.  
 
 🛠️ **Instructions:**  
